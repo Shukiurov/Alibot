@@ -1,1 +1,0 @@
-web: python Aliweather_bot.py
